@@ -11,8 +11,7 @@
 1-0-2-2-3-u-0-_-a-2-2-3      :- Srabon Free Trial
 1-0-4-4-8-u-0-_-a-4-4-8      :- Rakib Free Trial
 1-0-1-2-4-u-0-_-a-1-2-4      :- Rakib Free Trial
-1-0-2-7-8-u-0-_-a-2-7-8      :- Riya Free Trail
-1-0-5-3-8-u-0-_-a-5-3-8      :- Kamal Free Trail
+1-0-2-7-8-u-0-_-a-2-7-8      :- Riya Free Traile Trail
 1-0-2-2-5-u-0-_-a-2-2-5      :- Samid Free Trail
 1-0-2-9-4-u-0-_-a-2-9-4      :- Nusrat Free Trail
 1-0-6-6-6-u-0-_-a-6-6-6      :- Ashrif Free Tiral
