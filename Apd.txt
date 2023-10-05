@@ -10,3 +10,4 @@
 1-0-2-4-2-u-0-_-a-2-4-2      :- Sadi Free Trial
 1-0-2-2-3-u-0-_-a-2-2-3      :- Srabon Free Trial
 1-0-4-4-8-u-0-_-a-4-4-8      :- Rakib Free Trial
+1-0-1-2-4-u-0-_-a-1-2-4      :- Rakib Free Trial
