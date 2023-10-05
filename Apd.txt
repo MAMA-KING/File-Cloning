@@ -4,7 +4,7 @@
 1-0-3-6-8-u-0-_-a-3-6-8      :- Dangar 2nd Admin 
 1-0-3-2-2-u-0-_-a-3-2-2      :- Tamim Free Trail
 1-0-3-6-0-u-0-_-a-3-6-0      :- DAFI GAME KHALTASE FREE TAIL
-1-0-4-0-4-u-0-_-a-4-0-4     :- Jaber Free Taril
+1-0-4-0-4-u-0-_-a-4-0-4      :- Jaber Free Taril
 1-0-3-1-9-u-0-_-a-3-1-9      :- Shawon Free Taril 
 1-0-1-8-1-u-0-_-a-1-8-1      :- Abdul Hasim Free Taril
 1-0-2-4-2-u-0-_-a-2-4-2      :- Sadi Free Trial
