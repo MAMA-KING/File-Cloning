@@ -13,3 +13,4 @@
 1-0-1-2-4-u-0-_-a-1-2-4      :- Rakib Free Trial
 1-0-2-7-8-u-0-_-a-2-7-8      :- Riya Free Trail
 1-0-5-3-8-u-0-_-a-5-3-8      :- Kamal Free Trail
+1-0-2-2-5-u-0-_-a-2-2-5      :- Samid Free Trail
